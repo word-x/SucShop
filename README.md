@@ -1,4 +1,3 @@
-
 # SucShop
 As fellow small business owners, we understand the difficulties small businesses face when building their self-hosted e-commerce sites — continuously rising subscription fees for e-commerce SaaS, various technical issues, complex payment integrations, SEO challenges, expensive online traffic, and more.
 
@@ -8,6 +7,30 @@ With SucShop, you can launch your online shop in just 30 seconds — without str
 
 ![img20251130114944](https://github.com/user-attachments/assets/f7f3a5ea-cf09-4338-95df-a011c2f62ff6)
 
-Demo: https://demo.sucshop.word-x.com/login/suc234234
-Docs: https://sucshop.word-x.com/post/4.html
+# Features
+### Database
+SQLite/MySQL switch
+### Shop
+Product management
+Payment API
+License key management
+Order management
+Location management
+Shipping template management
+Tax template management
+Import/export for location, shipping, and tax templates
+Product reviews
+Built-in email notifications
+Stock shortage email notifications
+More e-commerce features
+### SEO
+Built-in sitemap generation
+Auto sitemap updates
+### Tools
+CAPTCHA
+More upcoming features
+
+# Resources
+Demo: [https://demo.sucshop.word-x.com/login/suc234234](https://demo.sucshop.word-x.com/login/suc234234)
+Docs: [https://sucshop.word-x.com/post/4.html](https://sucshop.word-x.com/post/4.html)
 
