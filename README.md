@@ -17,7 +17,7 @@ With SucShop, you can launch your online shop in just 30 seconds — without str
 - Templates  
 - Medias  
 - Multilingual  
-## Shop
+## Shop features
 - Product management
 - Payment API  
 - License key management  
