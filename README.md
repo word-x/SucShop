@@ -10,6 +10,13 @@ With SucShop, you can launch your online shop in just 30 seconds — without str
 # Features
 ## Database
 - SQLite/MySQL switch
+## Content Management (Blog)
+- Posts  
+- Pages  
+- Categories/Tags  
+- Templates  
+- Medias  
+- Multilingual  
 ## Shop
 - Product management
 - Payment API  
